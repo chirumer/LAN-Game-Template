@@ -8,7 +8,7 @@ GAME_PORT = 6005
 
 ############## GAME LOGIC ##############
 
-board = []
+board = ''
 
 def print_current_board():
   print('board:..')
