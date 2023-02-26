@@ -82,5 +82,5 @@ def main():
       break
 
   go_offline()
-  stop_identification
+  stop_identification()
   print('Program Closed.')
